@@ -1,0 +1,57 @@
+{
+    "basics": {
+      "name": "S.AZARDUEEN",
+      "email": "azarudeenshab@gmail.com",
+      "phone": "9715941439",
+      "degree": "Bsc.Compurter Science",
+        "address": "selva Mariamman Kovil ,Woraiyur ,Trichy",
+        "pinCode": "620003",
+        "city": "Trichy",
+        "Nationality": "Indian",
+        "State": "Tamilnadu"
+      },
+      
+    "work": [
+      {
+        "company": "Power Tranding Company",
+        "position": "Account Admin",
+        "website": "www.Powercements.in",
+        "summary": "Building material destributing company in all over tamilnadu",
+        
+      }
+    ],
+    
+    "education": [
+      {
+        
+        "courses": [
+          "Html","Css","Js","MS - Excel"
+        ]
+      }
+    ],
+   
+   
+    "skills": [
+      {
+        "name": ["Programing Language","Multitaksing"],
+        "category": [
+          "html","Css","javascript"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English",
+        "fluency": "Tamil ,English",
+        "Notes": "i can Tamil english  Written and speak"
+      }
+    ],
+    "interests": [
+      {
+        "name": ["Playing","Travel"],
+        "keywords": ["cricke","Carrom","Bike Ride"],
+          
+        ]}
+      }
+    
+  
